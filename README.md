@@ -11,7 +11,8 @@ $ yarn # or npm i
 
 # Usage ( run locally )
 
-##client-side usage
+## Client-side usage
+
 ```terminal
 $cd client        // go to client folder
 ```
