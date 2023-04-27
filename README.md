@@ -19,10 +19,7 @@ $cd client        // go to client folder
 $yarn # or npm i  // npm install packages
 ```
 ```terminal
-$cd client        // run it locally
-```
-```terminal
-$npm run dev
+$npm run dev      // run it locally
 ```
 
 ## Server-side usage
